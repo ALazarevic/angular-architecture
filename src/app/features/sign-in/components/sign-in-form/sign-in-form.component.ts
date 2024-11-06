@@ -7,6 +7,4 @@ import { Component } from '@angular/core';
   templateUrl: './sign-in-form.component.html',
   styleUrl: './sign-in-form.component.scss'
 })
-export class SignInFormComponent {
-
-}
+export class SignInFormComponent {}
