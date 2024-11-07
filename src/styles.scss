@@ -9,4 +9,8 @@ body {
   font-family: Roboto, 'Helvetica Neue', sans-serif;
 }
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @import './app/styles/main.scss';
