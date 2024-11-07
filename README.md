@@ -80,8 +80,8 @@ Prettier is integrated for code formatting, maintaining consistent code style th
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/ALazarevic/angular-architecture
+   cd angular-architecture
    ```
 2. **Install Dependencies:**:
     ```bash
