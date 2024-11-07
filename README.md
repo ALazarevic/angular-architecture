@@ -100,15 +100,15 @@ Prettier is integrated for code formatting, maintaining consistent code style th
 
 ### Code Formatting and Linting
 
-    - Prettier: Code is automatically formatted on save (configure in your editor if needed). Prettier enforces consistent code style.
-    - ESLint: Run ```bash npm run lint ``` to check for code issues. ESLint rules are tailored to Angular best practices.
+- Prettier: Code is automatically formatted on save (configure in your editor if needed). Prettier enforces consistent code style.
+- ESLint: Run ```bash npm run lint ``` to check for code issues. ESLint rules are tailored to Angular best practices.
 
 ### Styling with Tailwind and Angular Material
-    - Angular Material provides base components.
-    - Tailwind CSS is used for:
-        - Layouts
-        - Spacing and typography adjustments
-        - Customizing Angular Material components as needed
+- Angular Material provides base components.
+- Tailwind CSS is used for:
+    - Layouts
+    - Spacing and typography adjustments
+    - Customizing Angular Material components as needed
 
 
 ## Testing
