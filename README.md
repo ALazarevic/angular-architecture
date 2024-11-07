@@ -30,6 +30,7 @@ This Angular application is designed with an optimal folder structure and includ
 
 The project follows a modular folder structure to promote reusability and encapsulation of components:
 
+```bash
 /project-root
 ├── /app                     # Main application directory
 │   ├── /assets              # Assets used throughout the application
@@ -55,7 +56,7 @@ The project follows a modular folder structure to promote reusability and encaps
 │   └── main.ts              # Angular entry point
 ├── angular.json             # Angular configuration file
 └── package.json             # Project metadata and dependencies
-
+```
 
 ## Key Technologies
 
